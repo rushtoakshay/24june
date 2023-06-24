@@ -1,0 +1,1 @@
+This would tell you the entire procedure of moving a file from your local pc to server using Git commands
